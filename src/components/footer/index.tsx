@@ -128,7 +128,7 @@ class Reviews extends React.Component<Props, State> {
 								</li>
 							</ul>
 						</FooterColumn>
-						<img src="https://drive.google.com/open?id=18K2kLg-tClmd0lcuPS9iu2VL5O2U2GSN" alt="" className="footer__logo"/>
+						<img src="#" alt="" className="footer__logo"/>
 					</Row>
 				</Container>
 			</footer>
